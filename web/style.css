@@ -1,0 +1,16 @@
+
+.amazonList {
+    display: inline;
+}
+
+header{
+    margin-left: 150px;
+    display: inline;
+    height: 250px;
+    width: 100%;
+    color: red;
+}
+
+ul{
+    text-align: center;
+}
